@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 982570124518753208}
-  runspeed: 10
+  runspeed: 100
   lastPos: {x: 0, y: 0}
   startPos: {x: 0, y: 0, z: 0}
   onPlatform: 0
@@ -167,8 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d08027dad3844e4cb99aeff93f393e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 982570125330271483}
-  clip: {fileID: 8300000, guid: e198a6fb52849074e8b3eeddd6963de7, type: 3}
+  gb: {fileID: 0}
   volume: 0.5
 --- !u!95 &982570124518753214
 Animator:
